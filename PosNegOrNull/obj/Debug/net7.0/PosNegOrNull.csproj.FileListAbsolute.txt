@@ -1,0 +1,15 @@
+D:\LearningCode\PosNegOrNull\bin\Debug\net7.0\PosNegOrNull.exe
+D:\LearningCode\PosNegOrNull\bin\Debug\net7.0\PosNegOrNull.deps.json
+D:\LearningCode\PosNegOrNull\bin\Debug\net7.0\PosNegOrNull.runtimeconfig.json
+D:\LearningCode\PosNegOrNull\bin\Debug\net7.0\PosNegOrNull.dll
+D:\LearningCode\PosNegOrNull\bin\Debug\net7.0\PosNegOrNull.pdb
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.csproj.AssemblyReference.cache
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.AssemblyInfoInputs.cache
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.AssemblyInfo.cs
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.csproj.CoreCompileInputs.cache
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.dll
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\refint\PosNegOrNull.dll
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.pdb
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\PosNegOrNull.genruntimeconfig.cache
+D:\LearningCode\PosNegOrNull\obj\Debug\net7.0\ref\PosNegOrNull.dll
